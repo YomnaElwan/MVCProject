@@ -1,0 +1,32 @@
+﻿<h1>Index</h1>
+@model List<Category>
+<br />
+<a asp-action="New" asp-controller="Category">Add Cateogory</a>
+
+<table class="table able-bordered table-hover">
+    <thead>
+
+    <th>Category Name</th>
+    <th>Category Description</th>
+    <th>View Details</th>
+    <th>Edit Category</th>
+    <th>Delete Category</th>
+
+
+    </thead>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Name</td>
+            <td>@item.Description</td>
+            <td><a href="Category/Details/@item.Id">Show Dtails</a></td>
+            <td><a href="Category/Edit/@item.Id">Edit</a></td>
+            <td><a asp-action="Delete" asp-controller="Category" asp-route-id="@item.Id">Delete</a></td>
+        </tr>
+    }
+
+</table>
+
+
+

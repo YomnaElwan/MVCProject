@@ -1,5 +1,4 @@
-﻿using Microsoft.AspNetCore.Identity;
-using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace OnlineRestaurant.Models
@@ -18,15 +17,14 @@ namespace OnlineRestaurant.Models
         {
             modelBuilder.Entity<ProductIngredient>().HasKey(PI => new {PI.productId,PI.ingredientId});
             base.OnModelCreating(modelBuilder);
+
         }
         public virtual DbSet<Product>Products { get; set; }
         public virtual DbSet<Category>Categories { get; set; }
         public virtual DbSet<Order>Orders { get; set; }
-        //public virtual DbSet<ApplicationUser> Users { get; set; }
         public virtual DbSet<OrderItem> OrderItem { get; set; }
         public virtual DbSet<Ingredient> Ingredients { get; set; }
         public virtual DbSet<ProductIngredient> ProductIngredients { get; set; }
-
 
 
 

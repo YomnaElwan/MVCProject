@@ -8,11 +8,8 @@ namespace OnlineRestaurant.Models
         public DateTime Date { get; set; }
         public decimal TotalAmount { get; set; }
 
-        [ForeignKey("User")]
         public string? UserId { get; set; }
-
         public virtual ApplicationUser User { get; set; }
-
         public virtual List<OrderItem> OrderItems{ get; set; }
 
 

@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using OnlineRestaurant.Models;
+using OnlineRestaurant.Repository;
 
 namespace OnlineRestaurant
 {
@@ -16,9 +17,10 @@ namespace OnlineRestaurant
                 options.UseSqlServer(builder.Configuration.GetConnectionString("RestaurantDatabase"));
 
 
-            }); 
-
-                   var app = builder.Build();
+            });
+            builder.Services.AddScoped(typeof(Generic_Repository<>));
+            builder.Services.AddScoped<IRepository<Category>, Generic_Repository<Category>>();
+            var app = builder.Build();
 
             // Configure the HTTP request pipeline.
             if (!app.Environment.IsDevelopment())
@@ -36,7 +38,9 @@ namespace OnlineRestaurant
             app.MapStaticAssets();
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=Home}/{action=Index}/{id?}")
+               //pattern: "{controller=Home}/{action=Index}/{id?}")
+              pattern: "{controller=Category}/{action=Getall}/{id?}")
+
                 .WithStaticAssets();
 
             app.Run();

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BpN4FAvAeCE=",
+  "dgSpecHash": "2afNyZ8S8fI=",
   "success": true,
-  "projectFilePath": "D:\\Data [Yomna]\\ITI Menofia ICC 2024 - 2025\\MVC\\MVC Project\\OnlineRestaurant\\OnlineRestaurant\\OnlineRestaurant.csproj",
+  "projectFilePath": "D:\\Data [Yomna]\\ITI Menofia ICC 2024 - 2025\\MVC\\MVC Project\\MVCProject\\OnlineRestaurant\\OnlineRestaurant\\OnlineRestaurant.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ahmed Elwan\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Ahmed Elwan\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
