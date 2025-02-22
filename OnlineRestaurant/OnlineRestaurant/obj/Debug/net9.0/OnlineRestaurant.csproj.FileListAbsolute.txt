@@ -473,3 +473,5 @@ D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Project\MVCProject\OnlineRes
 D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Project\MVCProject\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\OnlineRestaurant.pdb
 D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Project\MVCProject\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\OnlineRestaurant.genruntimeconfig.cache
 D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Project\MVCProject\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\ref\OnlineRestaurant.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Project\MVCProject\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Castle.Core.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Project\MVCProject\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Proxies.dll

@@ -45,7 +45,7 @@ namespace OnlineRestaurant.Repository
 
         public int Save()
         {
-          return  ctxt.SaveChanges();
+          return ctxt.SaveChanges();
         }
     }
 }

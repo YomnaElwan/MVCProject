@@ -1,0 +1,33 @@
+﻿<h1>Products</h1>
+@model List<Product>
+<br />
+<a asp-action="New" asp-controller="Product">Add Product</a>
+
+<table class="table able-bordered table-hover">
+    <thead>
+
+    <th>Product Name</th>
+    <th>Product Details</th>
+    <th>Edit Product</th>
+    <th>Delete Product</th>
+
+
+
+    </thead>
+
+    @foreach (var item in Model)
+    {
+                <tr>
+                    <td>@item.Name</td>
+                    <td><a href="Product/Details/@item.Id">Show Details</a></td>
+                    <td><a href="Product/Edit/@item.Id">Edit Product</a></td>
+                    <td><a href="Product/Delete/@item.Id">Delete Item</a></td>
+                </tr>
+    }
+
+</table>
+<a asp-action="Getall" asp-controller="Category">Back To Categories</a>
+
+
+
+

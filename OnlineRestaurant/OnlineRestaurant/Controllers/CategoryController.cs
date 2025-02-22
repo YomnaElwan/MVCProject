@@ -54,19 +54,31 @@ namespace OnlineRestaurant.Controllers
             return View("Edit", category);
         }
 
+
         [HttpGet]
-
-        public IActionResult Delete(int id) {
-
-            category_Repo.Delete(id);
-            if (category_Repo.Save() > 0)
+        public IActionResult Delete(int id)
+        {
+            var category = category_Repo.GetById(id);
+            if (category == null)
             {
-                category_Repo.Save();
-
+                return NotFound();
             }
 
-            return View("AllCategories",category_Repo.GetAll());
+            var productRepo = new Generic_Repository<Product>(category_Repo.ctxt);
+            var products = productRepo.ctxt.Products.Where(p => p.CategoryId == id).ToList();
+
+            foreach (var product in products)
+            {
+                productRepo.Delete(product.Id);
+            }
+            productRepo.Save(); 
+
+            category_Repo.Delete(id);
+            category_Repo.Save();
+
+            return RedirectToAction("Getall"); 
         }
+
 
         public IActionResult Details(int id)
         {

@@ -20,6 +20,7 @@ namespace OnlineRestaurant
             });
             builder.Services.AddScoped(typeof(Generic_Repository<>));
             builder.Services.AddScoped<IRepository<Category>, Generic_Repository<Category>>();
+            builder.Services.AddScoped<IRepository<Product>, Generic_Repository<Product>>();
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.

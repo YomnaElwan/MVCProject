@@ -13,6 +13,12 @@ namespace OnlineRestaurant.Models
         {
 
         }
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            optionsBuilder.UseLazyLoadingProxies(false);
+
+            base.OnConfiguring(optionsBuilder);
+        }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<ProductIngredient>().HasKey(PI => new {PI.productId,PI.ingredientId});
