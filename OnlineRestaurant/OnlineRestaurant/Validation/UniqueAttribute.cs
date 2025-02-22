@@ -1,4 +1,5 @@
-﻿using OnlineRestaurant.Models;
+﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using OnlineRestaurant.Models;
 using System.ComponentModel.DataAnnotations;
 
 namespace OnlineRestaurant.Validation
@@ -8,11 +9,11 @@ namespace OnlineRestaurant.Validation
         RestaurantContext context = new RestaurantContext();
         protected override ValidationResult? IsValid(object? value, ValidationContext validationContext)
         {
-            if (context.Users.FirstOrDefault(c => c.Email == value.ToString()) == null)
-            {
-                return ValidationResult.Success;
+            //if (IdentityDbContext<ApplicationUser>FirstOrDefault(c => c.Email == value.ToString()) == null)
+            //{
+            //    return ValidationResult.Success;
 
-            }
+            //}
 
             return new ValidationResult($"{value.ToString()} Already Exists");
         }

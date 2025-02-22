@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using OnlineRestaurant.Models;
 using OnlineRestaurant.Repository;
@@ -26,6 +27,7 @@ namespace OnlineRestaurant.Controllers
         }
 
         //Add New Product
+
         public IActionResult New()
         {
             var viewModel = new ProductCategory
@@ -67,6 +69,7 @@ namespace OnlineRestaurant.Controllers
             return View("New", viewModel);
         }
         //Edit Product
+
         public IActionResult Edit(int id)
         {
             var product = product_Repo.GetById(id);
@@ -118,6 +121,7 @@ namespace OnlineRestaurant.Controllers
 
 
         //Delete Product
+
         [HttpGet]
         public IActionResult Delete(int id)
         {

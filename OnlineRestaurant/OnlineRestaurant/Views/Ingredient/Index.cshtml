@@ -1,0 +1,39 @@
+﻿<h1>Index</h1>
+@model List<Ingredient>
+<br />
+
+    <a asp-action="New" asp-controller="Ingredient">Add Ingredient</a>
+
+<table class="table able-bordered table-hover">
+    <thead>
+
+    <th>Ingredient Name</th>
+    <th>Show Details</th>
+    <th>Edit</th>
+    <th>Delete</th>
+ 
+
+
+    </thead>
+
+    @foreach (var item in Model)
+    {
+            <tr>
+                <td>@item.Name</td>
+                <td><a href="Ingredient/Details/@item.Id">Show Details</a></td>
+                <td><a href="Ingredient/Edit/@item.Id">Edit</a></td>
+                <td><a href="Ingredient/Delete/@item.Id">Delete</a></td>
+
+            </tr>
+    }
+
+</table>
+<div>
+    <a asp-action="GetAll" asp-controller="Category">Back To Categories</a>
+</div>
+
+
+
+
+
+

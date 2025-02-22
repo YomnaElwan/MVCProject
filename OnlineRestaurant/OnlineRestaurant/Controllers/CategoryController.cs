@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using Microsoft.Identity.Client;
 using OnlineRestaurant.Models;
@@ -7,6 +8,7 @@ using OnlineRestaurant.ViewModels;
 
 namespace OnlineRestaurant.Controllers
 {
+    
     public class CategoryController : Controller
     {
         Generic_Repository<Category> category_Repo;
@@ -19,6 +21,8 @@ namespace OnlineRestaurant.Controllers
         {
             return View("AllCategories",category_Repo.GetAll());
         }
+
+        [Authorize(Roles = "Admin")]
 
         public IActionResult New()
         {
@@ -55,6 +59,7 @@ namespace OnlineRestaurant.Controllers
         }
 
 
+
         [HttpGet]
         public IActionResult Delete(int id)
         {
@@ -78,7 +83,6 @@ namespace OnlineRestaurant.Controllers
 
             return RedirectToAction("Getall"); 
         }
-
 
         public IActionResult Details(int id)
         {

@@ -6,15 +6,18 @@ namespace OnlineRestaurant.ViewModels
     public class UserRegisterVM
     {
         [Required]
-        [Unique]
         public string UserName { get; set; }
+        //[Unique]
+
         [Required]
+
         public string Email { get; set; }
         public  string Address { get; set; }
-        [Required]
-        [MinLength(6,ErrorMessage ="Password must be at least 6 chars")]
+        [DataType(DataType.Password)]
         public string Password { get; set; }
         [Compare("Password" ,ErrorMessage ="Passwords Should match")]
+        [DataType(DataType.Password)]
+
         public string ConfirmPassword { get; set; }
 
 

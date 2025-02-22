@@ -20,14 +20,21 @@
         <tr>
             <td>@item.Name</td>
             <td>@item.Description</td>
-            <td><a href="Category/Details/@item.Id">Show Dtails</a></td>
+            <td><a href="Category/Details/@item.Id">Show Details</a></td>
             <td><a href="Category/Edit/@item.Id">Edit</a></td>
             <td><a asp-action="Delete" asp-controller="Category" asp-route-id="@item.Id">Delete</a></td>
         </tr>
     }
 
 </table>
-<a asp-action="GetAll" asp-controller="Product">Show Products</a>
+<div>
+    <a asp-action="GetAll" asp-controller="Product">Show Products</a>
+</div>
+<div>
+    <a asp-action="GetAll" asp-controller="Ingredient">Show Ingredients</a>
+
+</div>
+
 
 
 

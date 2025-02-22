@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using OnlineRestaurant.Models;
 using OnlineRestaurant.Repository;
@@ -21,6 +22,11 @@ namespace OnlineRestaurant
             builder.Services.AddScoped(typeof(Generic_Repository<>));
             builder.Services.AddScoped<IRepository<Category>, Generic_Repository<Category>>();
             builder.Services.AddScoped<IRepository<Product>, Generic_Repository<Product>>();
+            builder.Services.AddScoped<IRepository<Ingredient>, Generic_Repository<Ingredient>>();
+            builder.Services.AddScoped<IRepository<Order>, Generic_Repository<Order>>();
+            builder.Services.AddIdentity<ApplicationUser, IdentityRole>().AddEntityFrameworkStores<RestaurantContext>();
+
+
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
@@ -39,8 +45,8 @@ namespace OnlineRestaurant
             app.MapStaticAssets();
             app.MapControllerRoute(
                 name: "default",
-               //pattern: "{controller=Home}/{action=Index}/{id?}")
-              pattern: "{controller=Category}/{action=Getall}/{id?}")
+               pattern: "{controller=Home}/{action=Index}/{id?}")
+               //pattern: "{controller=Category}/{action=Getall}/{id?}")
 
                 .WithStaticAssets();
 
