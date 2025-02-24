@@ -27,6 +27,7 @@ namespace OnlineRestaurant.Controllers
         }
 
         //Add New Product
+        [Authorize(Roles = "Admin")]
 
         public IActionResult New()
         {
@@ -69,6 +70,7 @@ namespace OnlineRestaurant.Controllers
             return View("New", viewModel);
         }
         //Edit Product
+        [Authorize(Roles = "Admin")]
 
         public IActionResult Edit(int id)
         {
@@ -123,6 +125,7 @@ namespace OnlineRestaurant.Controllers
         //Delete Product
 
         [HttpGet]
+        [Authorize(Roles = "Admin")]
         public IActionResult Delete(int id)
         {
             var product = product_Repo.GetById(id);

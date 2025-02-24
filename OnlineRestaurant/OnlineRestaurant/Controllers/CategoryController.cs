@@ -41,6 +41,7 @@ namespace OnlineRestaurant.Controllers
             return View("New", category);
 
         }
+        [Authorize(Roles = "Admin")]
 
         public IActionResult Edit(int id)
         {
@@ -59,8 +60,10 @@ namespace OnlineRestaurant.Controllers
         }
 
 
+        [Authorize(Roles = "Admin")]
 
         [HttpGet]
+
         public IActionResult Delete(int id)
         {
             var category = category_Repo.GetById(id);
@@ -86,7 +89,6 @@ namespace OnlineRestaurant.Controllers
 
         public IActionResult Details(int id)
         {
-            
             return View("Details", category_Repo.GetById(id)); 
         }
 

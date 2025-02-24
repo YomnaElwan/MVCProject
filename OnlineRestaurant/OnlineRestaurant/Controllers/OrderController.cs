@@ -11,7 +11,6 @@ namespace OnlineRestaurant.Controllers
 
         {
             this.order_repo = orderrepo;
-            
         }
         public IActionResult Index()
         {

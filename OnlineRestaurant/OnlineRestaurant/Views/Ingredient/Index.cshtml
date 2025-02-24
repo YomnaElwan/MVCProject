@@ -1,17 +1,22 @@
 ﻿<h1>Index</h1>
 @model List<Ingredient>
 <br />
+@if (User.IsInRole("Admin")){
+
 
     <a asp-action="New" asp-controller="Ingredient">Add Ingredient</a>
-
+}
 <table class="table able-bordered table-hover">
     <thead>
 
-    <th>Ingredient Name</th>
-    <th>Show Details</th>
-    <th>Edit</th>
-    <th>Delete</th>
- 
+        <th>Ingredient Name</th>
+        <th>Show Details</th>
+        @if (User.IsInRole("Admin"))
+        {
+            <th>Edit</th>
+            <th>Delete</th>
+        }
+
 
 
     </thead>
@@ -20,9 +25,13 @@
     {
             <tr>
                 <td>@item.Name</td>
-                <td><a href="Ingredient/Details/@item.Id">Show Details</a></td>
-                <td><a href="Ingredient/Edit/@item.Id">Edit</a></td>
-                <td><a href="Ingredient/Delete/@item.Id">Delete</a></td>
+                <td><a href="/Ingredient/Details/@item.Id">Show Details</a></td>
+            @if (User.IsInRole("Admin"))
+            {
+
+                <td><a href="/Ingredient/Edit/@item.Id">Edit</a></td>
+                <td><a href="/Ingredient/Delete/@item.Id">Delete</a></td>
+            }
 
             </tr>
     }

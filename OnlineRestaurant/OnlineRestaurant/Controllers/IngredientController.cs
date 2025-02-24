@@ -21,7 +21,7 @@ namespace OnlineRestaurant.Controllers
         }
 
         //Add New Ingredient
-
+        [Authorize (Roles ="Admin")]
         public IActionResult New()
         {
             return View("New");
@@ -41,6 +41,7 @@ namespace OnlineRestaurant.Controllers
 
         }
         //Edit Ingredient
+        [Authorize(Roles = "Admin")]
 
         public IActionResult Edit(int id)
         {
@@ -64,6 +65,8 @@ namespace OnlineRestaurant.Controllers
         //Delete Ingredient
 
         [HttpGet]
+        [Authorize(Roles = "Admin")]
+
         public IActionResult Delete(int id)
         {
             var ingredient = ingredient_Repo.GetById(id);
