@@ -15,7 +15,7 @@ namespace OnlineRestaurant.Models
         }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseLazyLoadingProxies(false);
+            optionsBuilder.UseLazyLoadingProxies(true);
 
             base.OnConfiguring(optionsBuilder);
         }

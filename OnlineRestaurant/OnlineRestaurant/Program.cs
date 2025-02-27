@@ -15,7 +15,7 @@ namespace OnlineRestaurant
             builder.Services.AddControllersWithViews();
             builder.Services.AddDbContext<RestaurantContext>(options =>
             {
-                options.UseSqlServer(builder.Configuration.GetConnectionString("RestaurantDatabase"));
+                options.UseLazyLoadingProxies(true).UseSqlServer(builder.Configuration.GetConnectionString("RestaurantDatabase"));
 
 
             });
@@ -26,9 +26,13 @@ namespace OnlineRestaurant
             builder.Services.AddScoped<IRepository<Order>, Generic_Repository<Order>>();
             builder.Services.AddIdentity<ApplicationUser, IdentityRole>().AddEntityFrameworkStores<RestaurantContext>();
 
+            builder.Services.AddSession(options =>
+            {
+                options.IdleTimeout = TimeSpan.FromMinutes(30); // Set your timeout here
+            });
 
             var app = builder.Build();
-
+            app.UseSession();
             // Configure the HTTP request pipeline.
             if (!app.Environment.IsDevelopment())
             {

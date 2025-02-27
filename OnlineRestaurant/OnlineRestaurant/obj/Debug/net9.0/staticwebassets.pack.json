@@ -5,12 +5,124 @@
       "PackagePath": "staticwebassets\\OnlineRestaurant.rhc411e251.bundle.scp.css"
     },
     {
+      "Id": "D:\\Data [Yomna]\\ITI Menofia ICC 2024 - 2025\\MVC\\MVC Project\\MVCProject\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Data [Yomna]\\ITI Menofia ICC 2024 - 2025\\MVC\\MVC Project\\MVCProject\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\Data [Yomna]\\ITI Menofia ICC 2024 - 2025\\MVC\\MVC Project\\MVCProject\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
       "Id": "D:\\Data [Yomna]\\ITI Menofia ICC 2024 - 2025\\MVC\\MVC Project\\MVCProject\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "D:\\Data [Yomna]\\ITI Menofia ICC 2024 - 2025\\MVC\\MVC Project\\MVCProject\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Data [Yomna]\\ITI Menofia ICC 2024 - 2025\\MVC\\MVC Project\\MVCProject\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\style.css.map"
+    },
+    {
+      "Id": "D:\\Data [Yomna]\\ITI Menofia ICC 2024 - 2025\\MVC\\MVC Project\\MVCProject\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\css\\style.scss",
+      "PackagePath": "staticwebassets\\css\\style.scss"
+    },
+    {
       "Id": "D:\\Data [Yomna]\\ITI Menofia ICC 2024 - 2025\\MVC\\MVC Project\\MVCProject\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Data [Yomna]\\ITI Menofia ICC 2024 - 2025\\MVC\\MVC Project\\MVCProject\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\Data [Yomna]\\ITI Menofia ICC 2024 - 2025\\MVC\\MVC Project\\MVCProject\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\Data [Yomna]\\ITI Menofia ICC 2024 - 2025\\MVC\\MVC Project\\MVCProject\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\Data [Yomna]\\ITI Menofia ICC 2024 - 2025\\MVC\\MVC Project\\MVCProject\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\about-img.png",
+      "PackagePath": "staticwebassets\\images\\about-img.png"
+    },
+    {
+      "Id": "D:\\Data [Yomna]\\ITI Menofia ICC 2024 - 2025\\MVC\\MVC Project\\MVCProject\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\client1.jpg",
+      "PackagePath": "staticwebassets\\images\\client1.jpg"
+    },
+    {
+      "Id": "D:\\Data [Yomna]\\ITI Menofia ICC 2024 - 2025\\MVC\\MVC Project\\MVCProject\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\client2.jpg",
+      "PackagePath": "staticwebassets\\images\\client2.jpg"
+    },
+    {
+      "Id": "D:\\Data [Yomna]\\ITI Menofia ICC 2024 - 2025\\MVC\\MVC Project\\MVCProject\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\f1.png",
+      "PackagePath": "staticwebassets\\images\\f1.png"
+    },
+    {
+      "Id": "D:\\Data [Yomna]\\ITI Menofia ICC 2024 - 2025\\MVC\\MVC Project\\MVCProject\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\f2.png",
+      "PackagePath": "staticwebassets\\images\\f2.png"
+    },
+    {
+      "Id": "D:\\Data [Yomna]\\ITI Menofia ICC 2024 - 2025\\MVC\\MVC Project\\MVCProject\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\f3.png",
+      "PackagePath": "staticwebassets\\images\\f3.png"
+    },
+    {
+      "Id": "D:\\Data [Yomna]\\ITI Menofia ICC 2024 - 2025\\MVC\\MVC Project\\MVCProject\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\f4.png",
+      "PackagePath": "staticwebassets\\images\\f4.png"
+    },
+    {
+      "Id": "D:\\Data [Yomna]\\ITI Menofia ICC 2024 - 2025\\MVC\\MVC Project\\MVCProject\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\f5.png",
+      "PackagePath": "staticwebassets\\images\\f5.png"
+    },
+    {
+      "Id": "D:\\Data [Yomna]\\ITI Menofia ICC 2024 - 2025\\MVC\\MVC Project\\MVCProject\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\f6.png",
+      "PackagePath": "staticwebassets\\images\\f6.png"
+    },
+    {
+      "Id": "D:\\Data [Yomna]\\ITI Menofia ICC 2024 - 2025\\MVC\\MVC Project\\MVCProject\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\f7.png",
+      "PackagePath": "staticwebassets\\images\\f7.png"
+    },
+    {
+      "Id": "D:\\Data [Yomna]\\ITI Menofia ICC 2024 - 2025\\MVC\\MVC Project\\MVCProject\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\f8.png",
+      "PackagePath": "staticwebassets\\images\\f8.png"
+    },
+    {
+      "Id": "D:\\Data [Yomna]\\ITI Menofia ICC 2024 - 2025\\MVC\\MVC Project\\MVCProject\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\f9.png",
+      "PackagePath": "staticwebassets\\images\\f9.png"
+    },
+    {
+      "Id": "D:\\Data [Yomna]\\ITI Menofia ICC 2024 - 2025\\MVC\\MVC Project\\MVCProject\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\favicon.png"
+    },
+    {
+      "Id": "D:\\Data [Yomna]\\ITI Menofia ICC 2024 - 2025\\MVC\\MVC Project\\MVCProject\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\hero-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\hero-bg.jpg"
+    },
+    {
+      "Id": "D:\\Data [Yomna]\\ITI Menofia ICC 2024 - 2025\\MVC\\MVC Project\\MVCProject\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\o1.jpg",
+      "PackagePath": "staticwebassets\\images\\o1.jpg"
+    },
+    {
+      "Id": "D:\\Data [Yomna]\\ITI Menofia ICC 2024 - 2025\\MVC\\MVC Project\\MVCProject\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\images\\o2.jpg",
+      "PackagePath": "staticwebassets\\images\\o2.jpg"
+    },
+    {
+      "Id": "D:\\Data [Yomna]\\ITI Menofia ICC 2024 - 2025\\MVC\\MVC Project\\MVCProject\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Data [Yomna]\\ITI Menofia ICC 2024 - 2025\\MVC\\MVC Project\\MVCProject\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\Data [Yomna]\\ITI Menofia ICC 2024 - 2025\\MVC\\MVC Project\\MVCProject\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.4.1.min.js"
     },
     {
       "Id": "D:\\Data [Yomna]\\ITI Menofia ICC 2024 - 2025\\MVC\\MVC Project\\MVCProject\\OnlineRestaurant\\OnlineRestaurant\\wwwroot\\js\\site.js",

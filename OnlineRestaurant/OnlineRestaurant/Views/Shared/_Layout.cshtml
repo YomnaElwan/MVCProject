@@ -23,7 +23,7 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
                         </li>
-                        @if (User.Identity.IsAuthenticated){
+                        @if (User.Identity.IsAuthenticated && User.IsInRole("Admin")){
                           <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Category" asp-action="Getall">Category</a>
                         </li>
@@ -33,15 +33,19 @@
                          <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Ingredient" asp-action="GetAll">Ingredient</a>
                         </li>
-                             <li class="nav-item">
-                                    <a class="nav-link text-dark" asp-area="" asp-controller="Order" asp-action="Index">Orders</a>
-                            </li>
+
 
 
                          @* </li> *@
+                           
+                        }
+                        @if(User.Identity.IsAuthenticated){
                             <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="Logout">Logout</a>
-                        </li>
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Order" asp-action="CreateOrder">Orders</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="Logout">Logout</a>
+                            </li>
                         }
 
                         @if(!User.Identity.IsAuthenticated ){
@@ -74,5 +78,10 @@
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
     @await RenderSectionAsync("Scripts", required: false)
+
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js"></script>
+
+
 </body>
 </html>

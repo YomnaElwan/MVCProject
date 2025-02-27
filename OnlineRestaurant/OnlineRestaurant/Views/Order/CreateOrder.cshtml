@@ -1,0 +1,103 @@
+﻿@model OnlineRestaurant.ViewModels.OrderVM
+
+@{
+    ViewData["Title"] = "CreateOrder";
+    Layout = "_CreateOrderLayout";
+}
+
+<section class="food_section layout_padding-bottom">
+    <div class="container">
+        <div class="heading_container heading_center">
+            <h2>Our Menu</h2>
+        </div>
+
+        <ul class="filters_menu">
+            <li class="active" onclick="all()">All</li>
+            <li onclick="burger()">Burger</li>
+            <li onclick="pizza()">Pizza</li>
+            <li onclick="pasta()">Pasta</li>
+            <li onclick="fries()">Fries</li>
+        </ul>
+
+        <div class="filters-content">
+            <div class="row grid" id="productContainer">
+
+                if(highlightActiveCategory('all')){
+                
+                }
+                @foreach (var item in Model.products)
+                {
+                    <div class="col-sm-6 col-lg-4 product-card @item.category.ToString().ToLower()">
+                        <form class="form" asp-action="AddOrderItem" method="post">
+                            <div class="box">
+                                <div>
+                                    <div class="img-box">
+                                        <img src="/images/@item.imageSrc" alt="">
+                                    </div>
+                                    <div class="detail-box">
+                                        <h5>@item.Name</h5>
+                                        <p>@item.Description</p>
+                                        <div class="options">
+                                            <h6>@item.Price.ToString("C")</h6>
+                                            <input type="hidden" value="@item.Id" name="ProductId" />
+                                            <input type="number" name="Quantity" class="form-control" min="1" value="1" />
+                                            <button class="btn btn-info" type="submit">Add</button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                }
+            </div>
+        </div>
+
+        <div class="btn-box">
+            <a href="#">View More</a>
+        </div>
+    </div>
+</section>
+
+<script>
+    function all() {
+        getProducts('all');
+        highlightActiveCategory('all');
+    }
+
+    function burger() {
+        getProducts('burger');
+        highlightActiveCategory('burger');
+    }
+
+    function pizza() {
+        getProducts('pizza');
+        highlightActiveCategory('pizza');
+    }
+
+    function pasta() {
+        getProducts('pasta');
+        highlightActiveCategory('pasta');
+    }
+
+    function fries() {
+        getProducts('fries');
+        highlightActiveCategory('fries');
+    }
+
+    function getProducts(category) {
+        let products = document.querySelectorAll(".product-card");
+        products.forEach(product => {
+            if (category === 'all' || product.classList.contains(category)) {
+                product.style.display = "block";
+            } else {
+                product.style.display = "none";
+            }
+        });
+    }
+
+    function highlightActiveCategory(category) {
+        let menuItems = document.querySelectorAll(".filters_menu li");
+        menuItems.forEach(item => item.classList.remove("active"));
+        document.querySelector(`[onclick="${category}()"]`).classList.add("active");
+    }
+</script>

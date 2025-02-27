@@ -20,5 +20,8 @@ namespace OnlineRestaurant.Models
 
         public virtual List <ProductIngredient> productingredient { get; set; }
 
+
+        public string imageSrc { get; set; }
+
     }
 }

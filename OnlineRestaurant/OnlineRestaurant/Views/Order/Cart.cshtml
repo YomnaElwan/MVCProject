@@ -1,0 +1,48 @@
+﻿@model OnlineRestaurant.ViewModels.OrderVM
+
+@{
+    ViewData["Title"] = "Cart";
+}
+
+<h1>Cart</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<form asp-action="PlaceOrder" asp-controller="Order">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    Product
+                </th>
+                <th>Quantity</th>
+                <th>Price</th>
+                <th>Total</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.orderItemVMs)
+            {
+                <tr>
+                    <td>
+                        @item.ProductName
+                    </td>
+                    <td>
+                        @item.Quantity
+                    </td>
+                    <td>@item.Price</td>
+                </tr>
+            }
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>@Model.TotalAmount</td>
+            </tr>
+
+        </tbody>
+    </table>
+
+    <button class="btn btn-info" type="submit" >Place Order</button>
+</form>

@@ -384,7 +384,6 @@ D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Project\MVCProject\OnlineRes
 D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Project\MVCProject\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Project\MVCProject\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\scopedcss\bundle\OnlineRestaurant.styles.css
 D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Project\MVCProject\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\scopedcss\projectbundle\OnlineRestaurant.bundle.scp.css
-D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Project\MVCProject\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\kp25e8nyvw-b9sayid5wm.gz
 D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Project\MVCProject\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\w4lu4blfer-61n19gt1b8.gz
 D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Project\MVCProject\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\e2rqpsl5gl-xtxxf3hu2r.gz
 D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Project\MVCProject\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\7gnhnz1kmc-t1cqhe9u97.gz
@@ -583,3 +582,1071 @@ D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Project\MVCProject\OnlineRes
 D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Project\MVCProject\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
 D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Project\MVCProject\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
 D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Project\MVCProject\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\appsettings.json
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\OnlineRestaurant.staticwebassets.runtime.json
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\OnlineRestaurant.staticwebassets.endpoints.json
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\OnlineRestaurant.exe
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\OnlineRestaurant.deps.json
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\OnlineRestaurant.runtimeconfig.json
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\OnlineRestaurant.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\OnlineRestaurant.pdb
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Castle.Core.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Humanizer.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.Build.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\NuGet.Common.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\OnlineRestaurant.csproj.AssemblyReference.cache
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\OnlineRestaurant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\OnlineRestaurant.AssemblyInfoInputs.cache
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\OnlineRestaurant.AssemblyInfo.cs
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\OnlineRestaurant.csproj.CoreCompileInputs.cache
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\OnlineRestaurant.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\OnlineRestaurant.RazorAssemblyInfo.cache
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\OnlineRestaurant.RazorAssemblyInfo.cs
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\scopedcss\bundle\OnlineRestaurant.styles.css
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\scopedcss\projectbundle\OnlineRestaurant.bundle.scp.css
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\kp25e8nyvw-lugek5hnai.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\w4lu4blfer-61n19gt1b8.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\e2rqpsl5gl-fr7q2aak1r.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\7gnhnz1kmc-bqjiyaj88i.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\g66its6mvm-c2jlpeoesf.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\sgl2ybcbb6-erw9l3u2r3.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\t9i63oklp2-aexeepp0ev.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\o5nz1bal6y-d7shbmvgxk.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\3lclfkn32v-ausgxo2sd3.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\76j5wrg9az-k8d9w2qqmf.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\bdmvgp5kls-cosvhxvwiu.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\1jov81pxe5-ub07r2b239.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\8lug88l68g-fvhpjtyr6v.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\cm5b4m2bpf-b7pk76d08c.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\rxn51rb8kw-fsbi9cje9m.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\4qs6lhoane-rzd6atqjts.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\jjzldkkg2p-ee0r1s7dh0.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\9psszr6lr1-dxx9fxp4il.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\mfbwxwz1e5-jd9uben2k1.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\u1my7sl9ze-khv3u5hwcm.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\8haldg4ly5-r4e9w2rdcm.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\2xn4vomopo-lcd1t2u6c8.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\6fud0556kd-c2oey78nd0.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\829k0mnsdy-tdbxkamptv.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\q30dxmi3qx-j5mq2jizvt.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\jw2fggkvoi-06098lyss8.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\ngnv99hrd0-nvvlpmu67g.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\jgwk4cvdgl-s35ty4nyc5.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\ueiafiseyu-pj5nd1wqec.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\0j4ijdn78e-46ein0sx1k.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\hgq7ksr9lb-v0zj4ognzu.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\8s5gom0wt5-37tfw0ft22.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\fhimrhg0vv-hrwsygsryq.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\tgj3ixcs3q-pk9g2wxc8p.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\m379wcois2-ft3s53vfgj.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\o3ss5cn3yn-6cfz1n2cew.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\qbuspi63lb-6pdc2jztkx.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\iwu6nnul4q-493y06b0oq.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\9at2objvqo-iovd86k7lj.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\6chmqh727a-vr1egmr9el.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\eepfpivaj4-kbrnm935zg.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\zn1p1mijgn-jj8uyg4cgr.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\18itmv2xst-y7v9cxd14o.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\uixvqutrxw-notf2xhcfb.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\e0txk841zg-h1s4sie4z3.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\lo9lku1i0a-63fj8s7r0e.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\yet50g63kf-0j3bgjxly4.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\bbsyxxo58i-47otxtyo56.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\ysw0sjrmgu-4v8eqarkd7.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\x3ifljrveo-l3n5xuwxn8.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\5l2u5wyr83-ilo7uva0vt.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\q5gx0eadxu-qlccset4i1.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\7z19r71y4s-lzl9nlhx6b.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\a206vptao2-ag7o75518u.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\y4wo6wkpej-xzw0cte36n.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\ap6itu63v9-0i3buxo5is.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\yrl74ejfqw-o1o13a6vjx.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\qjxhvh8wa5-ttgo8qnofa.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\mxlk8kof3d-2z0ns9nrw6.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\aqqxmtf5uz-muycvpuwrr.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\9v2q4tk3tl-87fc7y1x7t.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\fozjnnb8hc-jfsiqqwiad.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\2kzz0gacuz-rhc411e251.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\c7927i54n0-rhc411e251.gz
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\staticwebassets\msbuild.OnlineRestaurant.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\staticwebassets\msbuild.OnlineRestaurant.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\staticwebassets\msbuild.build.OnlineRestaurant.props
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.OnlineRestaurant.props
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.OnlineRestaurant.props
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\OnlineRe.03F5B5F1.Up2Date
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\OnlineRestaurant.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\refint\OnlineRestaurant.dll
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\OnlineRestaurant.pdb
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\OnlineRestaurant.genruntimeconfig.cache
+C:\Users\mo\Downloads\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\ref\OnlineRestaurant.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\appsettings.Development.json
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\appsettings.json
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\OnlineRestaurant.staticwebassets.runtime.json
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\OnlineRestaurant.staticwebassets.endpoints.json
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\OnlineRestaurant.exe
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\OnlineRestaurant.deps.json
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\OnlineRestaurant.runtimeconfig.json
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\OnlineRestaurant.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\OnlineRestaurant.pdb
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Azure.Core.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Azure.Identity.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Castle.Core.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Humanizer.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.Build.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\NuGet.Common.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\NuGet.Configuration.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\NuGet.Frameworks.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\NuGet.LibraryModel.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\NuGet.Packaging.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\NuGet.ProjectModel.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\NuGet.Protocol.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\NuGet.Versioning.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\System.ClientModel.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\System.CodeDom.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\System.Formats.Asn1.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\System.Memory.Data.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\System.Text.Json.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\af\Humanizer.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ar\Humanizer.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\az\Humanizer.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\bg\Humanizer.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\cs\Humanizer.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\da\Humanizer.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\de\Humanizer.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\el\Humanizer.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\es\Humanizer.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\fa\Humanizer.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\fr\Humanizer.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\he\Humanizer.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\hr\Humanizer.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\hu\Humanizer.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\hy\Humanizer.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\id\Humanizer.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\is\Humanizer.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\it\Humanizer.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ja\Humanizer.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ku\Humanizer.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\lv\Humanizer.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\mt\Humanizer.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\nb\Humanizer.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\nl\Humanizer.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\pl\Humanizer.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\pt\Humanizer.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ro\Humanizer.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ru\Humanizer.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\sk\Humanizer.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\sl\Humanizer.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\sr\Humanizer.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\sv\Humanizer.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\tr\Humanizer.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\uk\Humanizer.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\vi\Humanizer.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\OnlineRestaurant.csproj.AssemblyReference.cache
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\OnlineRestaurant.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\OnlineRestaurant.AssemblyInfoInputs.cache
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\OnlineRestaurant.AssemblyInfo.cs
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\OnlineRestaurant.csproj.CoreCompileInputs.cache
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\OnlineRestaurant.MvcApplicationPartsAssemblyInfo.cache
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\OnlineRestaurant.RazorAssemblyInfo.cache
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\OnlineRestaurant.RazorAssemblyInfo.cs
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\OnlineRestaurant.sourcelink.json
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\scopedcss\bundle\OnlineRestaurant.styles.css
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\scopedcss\projectbundle\OnlineRestaurant.bundle.scp.css
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\hqrkzkmytv-zuvuklkj3l.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\sofmv2a1z0-rf9f4pws8w.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\biy8hjilp8-pbup2pr0gb.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\kp25e8nyvw-1ro4vkfyq9.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\5kw1nq2nuy-0ezrc3ek9g.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\r8bysqqiwf-yahiwgkxwu.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\w4lu4blfer-61n19gt1b8.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\551yx16jzv-ikbvthl94z.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\w168em46nv-95dnrx32fu.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\f4b0lx3b8g-0h1hq80lqs.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\e2rqpsl5gl-fr7q2aak1r.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\7gnhnz1kmc-bqjiyaj88i.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\g66its6mvm-c2jlpeoesf.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\sgl2ybcbb6-erw9l3u2r3.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\t9i63oklp2-aexeepp0ev.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\o5nz1bal6y-d7shbmvgxk.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\3lclfkn32v-ausgxo2sd3.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\76j5wrg9az-k8d9w2qqmf.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\bdmvgp5kls-cosvhxvwiu.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\1jov81pxe5-ub07r2b239.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\8lug88l68g-fvhpjtyr6v.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\cm5b4m2bpf-b7pk76d08c.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\rxn51rb8kw-fsbi9cje9m.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\4qs6lhoane-rzd6atqjts.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\jjzldkkg2p-ee0r1s7dh0.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\9psszr6lr1-dxx9fxp4il.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\mfbwxwz1e5-jd9uben2k1.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\u1my7sl9ze-khv3u5hwcm.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\8haldg4ly5-r4e9w2rdcm.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\2xn4vomopo-lcd1t2u6c8.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\6fud0556kd-c2oey78nd0.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\829k0mnsdy-tdbxkamptv.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\q30dxmi3qx-j5mq2jizvt.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\jw2fggkvoi-06098lyss8.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\ngnv99hrd0-nvvlpmu67g.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\jgwk4cvdgl-s35ty4nyc5.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\ueiafiseyu-pj5nd1wqec.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\0j4ijdn78e-46ein0sx1k.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\hgq7ksr9lb-v0zj4ognzu.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\8s5gom0wt5-37tfw0ft22.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\fhimrhg0vv-hrwsygsryq.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\tgj3ixcs3q-pk9g2wxc8p.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\m379wcois2-ft3s53vfgj.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\o3ss5cn3yn-6cfz1n2cew.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\qbuspi63lb-6pdc2jztkx.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\iwu6nnul4q-493y06b0oq.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\9at2objvqo-iovd86k7lj.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\6chmqh727a-vr1egmr9el.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\eepfpivaj4-kbrnm935zg.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\zn1p1mijgn-jj8uyg4cgr.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\18itmv2xst-y7v9cxd14o.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\uixvqutrxw-notf2xhcfb.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\e0txk841zg-h1s4sie4z3.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\lo9lku1i0a-63fj8s7r0e.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\yet50g63kf-0j3bgjxly4.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\bbsyxxo58i-47otxtyo56.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\ysw0sjrmgu-4v8eqarkd7.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\x3ifljrveo-l3n5xuwxn8.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\5l2u5wyr83-ilo7uva0vt.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\q5gx0eadxu-qlccset4i1.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\7z19r71y4s-lzl9nlhx6b.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\a206vptao2-ag7o75518u.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\y4wo6wkpej-xzw0cte36n.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\ap6itu63v9-0i3buxo5is.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\yrl74ejfqw-o1o13a6vjx.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\qjxhvh8wa5-ttgo8qnofa.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\mxlk8kof3d-2z0ns9nrw6.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\aqqxmtf5uz-muycvpuwrr.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\9v2q4tk3tl-87fc7y1x7t.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\fozjnnb8hc-jfsiqqwiad.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\2kzz0gacuz-rhc411e251.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\c7927i54n0-rhc411e251.gz
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\staticwebassets.build.json
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\staticwebassets.development.json
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\staticwebassets\msbuild.OnlineRestaurant.Microsoft.AspNetCore.StaticWebAssets.props
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\staticwebassets\msbuild.OnlineRestaurant.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\staticwebassets\msbuild.build.OnlineRestaurant.props
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.OnlineRestaurant.props
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.OnlineRestaurant.props
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\staticwebassets.pack.json
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\OnlineRe.03F5B5F1.Up2Date
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\OnlineRestaurant.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\refint\OnlineRestaurant.dll
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\OnlineRestaurant.pdb
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\OnlineRestaurant.genruntimeconfig.cache
+D:\MVCProjectFinal\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\ref\OnlineRestaurant.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\appsettings.Development.json
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\appsettings.json
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\OnlineRestaurant.staticwebassets.runtime.json
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\OnlineRestaurant.staticwebassets.endpoints.json
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\OnlineRestaurant.exe
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\OnlineRestaurant.deps.json
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\OnlineRestaurant.runtimeconfig.json
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\OnlineRestaurant.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\OnlineRestaurant.pdb
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Azure.Core.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Azure.Identity.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Castle.Core.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Humanizer.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.Build.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\NuGet.Common.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\NuGet.Configuration.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\NuGet.Frameworks.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\NuGet.LibraryModel.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\NuGet.Packaging.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\NuGet.ProjectModel.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\NuGet.Protocol.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\NuGet.Versioning.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\System.ClientModel.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\System.CodeDom.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\System.Formats.Asn1.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\System.Memory.Data.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\System.Text.Json.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\af\Humanizer.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ar\Humanizer.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\az\Humanizer.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\bg\Humanizer.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\cs\Humanizer.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\da\Humanizer.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\de\Humanizer.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\el\Humanizer.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\es\Humanizer.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\fa\Humanizer.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\fr\Humanizer.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\he\Humanizer.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\hr\Humanizer.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\hu\Humanizer.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\hy\Humanizer.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\id\Humanizer.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\is\Humanizer.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\it\Humanizer.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ja\Humanizer.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ku\Humanizer.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\lv\Humanizer.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\mt\Humanizer.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\nb\Humanizer.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\nl\Humanizer.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\pl\Humanizer.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\pt\Humanizer.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ro\Humanizer.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ru\Humanizer.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\sk\Humanizer.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\sl\Humanizer.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\sr\Humanizer.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\sv\Humanizer.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\tr\Humanizer.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\uk\Humanizer.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\vi\Humanizer.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\OnlineRestaurant.csproj.AssemblyReference.cache
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\OnlineRestaurant.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\OnlineRestaurant.AssemblyInfoInputs.cache
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\OnlineRestaurant.AssemblyInfo.cs
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\OnlineRestaurant.csproj.CoreCompileInputs.cache
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\OnlineRestaurant.MvcApplicationPartsAssemblyInfo.cache
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\OnlineRestaurant.RazorAssemblyInfo.cache
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\OnlineRestaurant.RazorAssemblyInfo.cs
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\OnlineRestaurant.sourcelink.json
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\scopedcss\bundle\OnlineRestaurant.styles.css
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\scopedcss\projectbundle\OnlineRestaurant.bundle.scp.css
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\hqrkzkmytv-gawgt6fljy.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\sofmv2a1z0-isc7u9n7qi.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\biy8hjilp8-asm9y0fhmf.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\kp25e8nyvw-dyrdnocumf.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\5kw1nq2nuy-v92bzjeot9.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\r8bysqqiwf-s40ebyogba.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\w4lu4blfer-61n19gt1b8.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\551yx16jzv-2wbfb16emr.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\w168em46nv-hhf7sj73ff.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\f4b0lx3b8g-d6rpaas0a0.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\e2rqpsl5gl-xtxxf3hu2r.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\7gnhnz1kmc-t1cqhe9u97.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\g66its6mvm-c2jlpeoesf.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\sgl2ybcbb6-sejl45xvog.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\t9i63oklp2-aexeepp0ev.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\o5nz1bal6y-xvp3kq03qx.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\3lclfkn32v-ausgxo2sd3.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\76j5wrg9az-22vffe00uq.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\bdmvgp5kls-cosvhxvwiu.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\1jov81pxe5-qesaa3a1fm.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\8lug88l68g-fvhpjtyr6v.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\cm5b4m2bpf-tmc1g35s3z.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\rxn51rb8kw-fsbi9cje9m.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\4qs6lhoane-rxsg74s51o.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\jjzldkkg2p-ee0r1s7dh0.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\9psszr6lr1-q9ht133ko3.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\mfbwxwz1e5-jd9uben2k1.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\u1my7sl9ze-gye83jo8yx.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\8haldg4ly5-r4e9w2rdcm.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\2xn4vomopo-wl58j5mj3v.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\6fud0556kd-c2oey78nd0.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\829k0mnsdy-d4r6k3f320.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\q30dxmi3qx-j5mq2jizvt.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\jw2fggkvoi-keugtjm085.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\ngnv99hrd0-nvvlpmu67g.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\jgwk4cvdgl-zub09dkrxp.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\ueiafiseyu-pj5nd1wqec.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\0j4ijdn78e-43atpzeawx.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\hgq7ksr9lb-v0zj4ognzu.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\8s5gom0wt5-ynyaa8k90p.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\fhimrhg0vv-hrwsygsryq.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\tgj3ixcs3q-c63t5i9ira.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\m379wcois2-ft3s53vfgj.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\o3ss5cn3yn-4094rpi4f9.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\qbuspi63lb-6pdc2jztkx.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\iwu6nnul4q-hd3gran6i8.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\9at2objvqo-iovd86k7lj.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\6chmqh727a-ltid2c489k.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\eepfpivaj4-kbrnm935zg.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\zn1p1mijgn-8vyfqsqgz1.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\18itmv2xst-y7v9cxd14o.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\uixvqutrxw-u9q1upor1n.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\e0txk841zg-h1s4sie4z3.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\lo9lku1i0a-4d85u1mtcx.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\yet50g63kf-0j3bgjxly4.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\bbsyxxo58i-03hjc8e09r.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\ysw0sjrmgu-48y08845bh.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\x3ifljrveo-356vix0kms.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\5l2u5wyr83-83jwlth58m.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\q5gx0eadxu-mrlpezrjn3.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\7z19r71y4s-worgj0nhwm.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\a206vptao2-gk0pw8i4co.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\y4wo6wkpej-x0q3zqp4vz.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\ap6itu63v9-d6nrnj6jjx.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\yrl74ejfqw-m9qm4tazc0.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\qjxhvh8wa5-ttgo8qnofa.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\mxlk8kof3d-jjsuc0puko.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\aqqxmtf5uz-9vr69e8ynj.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\9v2q4tk3tl-87fc7y1x7t.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\fozjnnb8hc-mlv21k5csn.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\2kzz0gacuz-rhc411e251.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\c7927i54n0-rhc411e251.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\staticwebassets.build.json
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\staticwebassets.development.json
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\staticwebassets\msbuild.OnlineRestaurant.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\staticwebassets\msbuild.OnlineRestaurant.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\staticwebassets\msbuild.build.OnlineRestaurant.props
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.OnlineRestaurant.props
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.OnlineRestaurant.props
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\staticwebassets.pack.json
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\OnlineRe.03F5B5F1.Up2Date
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\OnlineRestaurant.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\refint\OnlineRestaurant.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\OnlineRestaurant.pdb
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\OnlineRestaurant.genruntimeconfig.cache
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Last\Resturant-MVC-\MVCProject-master\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\ref\OnlineRestaurant.dll
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Project\MVCProject\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\hqrkzkmytv-gawgt6fljy.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Project\MVCProject\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\sofmv2a1z0-isc7u9n7qi.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Project\MVCProject\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\biy8hjilp8-asm9y0fhmf.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Project\MVCProject\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\kp25e8nyvw-dyrdnocumf.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Project\MVCProject\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\5kw1nq2nuy-v92bzjeot9.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Project\MVCProject\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\r8bysqqiwf-s40ebyogba.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Project\MVCProject\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\551yx16jzv-2wbfb16emr.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Project\MVCProject\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\w168em46nv-hhf7sj73ff.gz
+D:\Data [Yomna]\ITI Menofia ICC 2024 - 2025\MVC\MVC Project\MVCProject\OnlineRestaurant\OnlineRestaurant\obj\Debug\net9.0\compressed\f4b0lx3b8g-d6rpaas0a0.gz
