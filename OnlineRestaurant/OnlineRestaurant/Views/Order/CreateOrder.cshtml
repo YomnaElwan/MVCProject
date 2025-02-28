@@ -1,4 +1,4 @@
-﻿@model OnlineRestaurant.ViewModels.OrderVM
+﻿ @model OnlineRestaurant.ViewModels.OrderVM
 
 @{
     ViewData["Title"] = "CreateOrder";
@@ -12,36 +12,36 @@
         </div>
 
         <ul class="filters_menu">
-            <li class="active" onclick="all()">All</li>
-            <li onclick="burger()">Burger</li>
-            <li onclick="pizza()">Pizza</li>
-            <li onclick="pasta()">Pasta</li>
-            <li onclick="fries()">Fries</li>
+            <li class="active" data-category="all" onclick="filterProducts('all')">All</li>
+            <li data-category="Burger" onclick="filterProducts('Burger')">Burger</li>
+            <li data-category="Pizza" onclick="filterProducts('Pizza')">Pizza</li>
+            <li data-category="Pasta" onclick="filterProducts('Pasta')">Pasta</li>
+            <li data-category="Fries" onclick="filterProducts('Fries')">Fries</li>
         </ul>
 
         <div class="filters-content">
             <div class="row grid" id="productContainer">
-
-                if(highlightActiveCategory('all')){
-                
-                }
                 @foreach (var item in Model.products)
                 {
-                    <div class="col-sm-6 col-lg-4 product-card @item.category.ToString().ToLower()">
+                    <div class="col-sm-6 col-lg-4 product-card" data-category="@item.category.Name">
                         <form class="form" asp-action="AddOrderItem" method="post">
                             <div class="box">
                                 <div>
                                     <div class="img-box">
-                                        <img src="/images/@item.imageSrc" alt="">
+                                        <img src="/images/@item.imageSrc" alt="@item.Name" onerror="this.src='/images/default-image.jpg';">
                                     </div>
                                     <div class="detail-box">
                                         <h5>@item.Name</h5>
                                         <p>@item.Description</p>
                                         <div class="options">
-                                            <h6>@item.Price.ToString("C")</h6>
+                                            <h6 class="m-5">@item.Price.ToString("C")</h6>
                                             <input type="hidden" value="@item.Id" name="ProductId" />
-                                            <input type="number" name="Quantity" class="form-control" min="1" value="1" />
-                                            <button class="btn btn-info" type="submit">Add</button>
+                                            <div class="quantity-input">
+                                                <input type="number" name="Quantity" class="form-control" min="1" value="1" />
+                                            </div>
+                                            <div class="add-button">
+                                                <button class="btn btn-info" type="submit">Add</button>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
@@ -58,46 +58,57 @@
     </div>
 </section>
 
+
 <script>
-    function all() {
-        getProducts('all');
-        highlightActiveCategory('all');
-    }
-
-    function burger() {
-        getProducts('burger');
-        highlightActiveCategory('burger');
-    }
-
-    function pizza() {
-        getProducts('pizza');
-        highlightActiveCategory('pizza');
-    }
-
-    function pasta() {
-        getProducts('pasta');
-        highlightActiveCategory('pasta');
-    }
-
-    function fries() {
-        getProducts('fries');
-        highlightActiveCategory('fries');
-    }
-
-    function getProducts(category) {
-        let products = document.querySelectorAll(".product-card");
+    function filterProducts(category) {
+        const products = document.querySelectorAll(".product-card");
         products.forEach(product => {
-            if (category === 'all' || product.classList.contains(category)) {
+            const productCategory = product.getAttribute("data-category");
+            if (category === 'all' || productCategory === category) {
                 product.style.display = "block";
             } else {
                 product.style.display = "none";
             }
         });
+        highlightActiveCategory(category);
     }
 
     function highlightActiveCategory(category) {
-        let menuItems = document.querySelectorAll(".filters_menu li");
+        const menuItems = document.querySelectorAll(".filters_menu li");
         menuItems.forEach(item => item.classList.remove("active"));
-        document.querySelector(`[onclick="${category}()"]`).classList.add("active");
+        document.querySelector(`[data-category="${category}"]`).classList.add("active");
     }
+
+    document.addEventListener("DOMContentLoaded", () => {
+        filterProducts('all');
+    });
 </script>
+
+<style>
+
+    .product-card .options {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 5px;  
+    }
+
+    .product-card .quantity-input {
+        width: 100%;
+        text-align: center;
+    }
+
+    .product-card .add-button {
+        width: 100%;
+        text-align: center;
+    }
+
+    .product-card .form-control {
+        width: 80%; 
+        margin: 0 auto;
+    }
+
+    .product-card .btn-info {
+        width: 80%;  
+    }
+</style>

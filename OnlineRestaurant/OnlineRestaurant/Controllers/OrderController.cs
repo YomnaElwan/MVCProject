@@ -71,15 +71,7 @@ namespace OnlineRestaurant.Controllers
 
             return RedirectToAction("CreateOrder", model);
         }
-        public IActionResult TestSession()
-        {
-            var sessionw = HttpContext.Session.Get<OrderVM>("OrderVM");
-            if (sessionw != null)
-            {
-                return Content($"Session is{sessionw.orderItemVMs.Count()} ");
-            }
-            return Content("Not Found");
-        }
+     
         [Authorize]
         [HttpGet]
 
