@@ -1,43 +1,48 @@
 ﻿@model OnlineRestaurant.Models.Category
 
 @{
-    ViewData["Title"] = "New";
+    ViewData["Title"] = "New Category";
+    Layout = "_AdminDashboard";
 }
 
-<h1>New</h1>
+<h1 class="text-center">New Category</h1>
 
-<h4>Category</h4>
-<hr />
-<div class="row">
-    <div class="col-md-4">
-        <form asp-action="SaveNew">
-            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-            <div class="form-group">
-                <label asp-for="Name" class="control-label"></label>
-                <input asp-for="Name" class="form-control" />
-                <span asp-validation-for="Name" class="text-danger"></span>
+<div class="card shadow p-4">
+    <hr />
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <form asp-action="SaveNew">
+                <div asp-validation-summary="ModelOnly" class="alert alert-danger d-none"></div>
+
+                <!-- Category Name -->
+                <div class="form-group mb-3">
+                    <label asp-for="Name" class="form-label fw-bold">Category Name</label>
+                    <input asp-for="Name" class="form-control" placeholder="Enter category name" />
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+
+                <!-- Category Description -->
+                <div class="form-group mb-3">
+                    <label asp-for="Description" class="form-label fw-bold">Description</label>
+                    <textarea asp-for="Description" class="form-control" rows="3" placeholder="Enter category description"></textarea>
+                    <span asp-validation-for="Description" class="text-danger"></span>
+                </div>
+
+                <!-- Submit Button -->
+                <div class="form-group mt-3">
+                    <button type="submit" class="btn btn-warning w-100">Add Category</button>
+                </div>
+            </form>
+
+            <!-- Back to Categories -->
+            <div class="text-center mt-3">
+                <a asp-action="Getall" class="btn btn-outline-secondary">Back to Categories</a>
             </div>
-            <div class="form-group">
-                <label asp-for="Description" class="control-label"></label>
-                <input asp-for="Description" class="form-control" />
-                <span asp-validation-for="Description" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <input type="submit" value="Add Category" class="btn btn-primary" />
-            </div>
-        </form>
+        </div>
     </div>
 </div>
 
-<div>
-    <a asp-action="Getall">Back to Categories</a>
-</div>
-
-@section Scripts {
-    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
-}
-
-
+<!-- jQuery Validation Scripts -->
 <script src="~/lib/jquery/dist/jquery.js"></script>
 <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
 <script src="~/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js"></script>

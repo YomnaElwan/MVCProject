@@ -1,41 +1,94 @@
 ﻿@model OnlineRestaurant.ViewModels.ProductCategory
 
 @{
-    ViewData["Title"] = "Edit";
+    ViewData["Title"] = "Edit Product";
     SelectList categoryItems = new SelectList(Model.Categories, "Id", "Name");
-
+    Layout = "_AdminDashboard";
 }
 
-<h1>Edit</h1>
+<h1 class="text-center text-Black">Edit Product</h1>
 
-<h4>Product</h4>
-<hr />
-<form asp-action="SaveEdit" method="post">
-    <input type="hidden" asp-for="Id" />
+<div class="card shadow-lg p-4 mt-4">
+    <form asp-action="SaveEdit" method="post">
+        <input type="hidden" asp-for="Id" />
 
-    <label>Name</label>
-    <input type="text" asp-for="Name" class="form-control" required />
+        <div class="row">
+            <!-- Left Column -->
+            <div class="col-md-6">
+                <!-- Product Name -->
+                <div class="mb-3">
+                    <label class="form-label fw-bold">Product Name</label>
+                    <input type="text" asp-for="Name" class="form-control" placeholder="Enter product name" required />
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
 
-    <label>Description</label>
-    <textarea asp-for="Description" class="form-control" required></textarea>
+                <!-- Description -->
+                <div class="mb-3">
+                    <label class="form-label fw-bold">Description</label>
+                    <textarea asp-for="Description" class="form-control" rows="3" placeholder="Enter product description" required></textarea>
+                    <span asp-validation-for="Description" class="text-danger"></span>
+                </div>
 
-    <label>Price</label>
-    <input type="number" asp-for="Price" class="form-control" step="5" required />
+                <!-- Category -->
+                <div class="mb-3">
+                    <label class="form-label fw-bold">Category</label>
+                    <select asp-for="CategoryId" asp-items="categoryItems" class="form-control" required>
+                        <option value="">Select a Category</option>
+                    </select>
+                    <span asp-validation-for="CategoryId" class="text-danger"></span>
+                </div>
+            </div>
 
-    <label>Stock</label>
-    <input type="number" asp-for="Stock" class="form-control" step="1" required />
+            <!-- Right Column -->
+            <div class="col-md-6">
+                <!-- Price -->
+                <div class="mb-3">
+                    <label class="form-label fw-bold">Price</label>
+                    <input type="number" asp-for="Price" class="form-control" step="0.01" placeholder="Enter price" required />
+                    <span asp-validation-for="Price" class="text-danger"></span>
+                </div>
 
-    <label>Category</label>
-    <select asp-for="CategoryId" asp-items="categoryItems" class="form-control" required>
-        <option value="">Select a Category</option>
-    </select>
+                <!-- Stock -->
+                <div class="mb-3">
+                    <label class="form-label fw-bold">Stock</label>
+                    <input type="number" asp-for="Stock" class="form-control" step="1" placeholder="Enter stock quantity" required />
+                    <span asp-validation-for="Stock" class="text-danger"></span>
+                </div>
 
-    <button type="submit" class="btn btn-primary">Save Changes</button>
-</form>
+                <!-- Product Image URL -->
+                <div class="mb-3">
+                    <label class="form-label fw-bold">Image URL</label>
+                    <input type="text" asp-for="imageSrc" class="form-control" placeholder="Enter image URL" required oninput="updateImagePreview(this.value)" />
+                    <span asp-validation-for="imageSrc" class="text-danger"></span>
+                </div>
 
+                <!-- Image Preview -->
+                <div class="text-center">
+                    <img id="imagePreview" src="/images/@Model.imageSrc" class="img-thumbnail" style="max-width: 150px; max-height: 150px;" alt="Product Image" />
+                </div>
+            </div>
+        </div>
 
-<div>
-    <a asp-action="GetAll">Back to Products</a>
+        <!-- Submit Button -->
+        <div class="text-center mt-4">
+            <button type="submit" class="btn btn-warning w-50">Save Changes</button>
+        </div>
+    </form>
+
+    <!-- Back Button -->
+    <div class="text-center mt-3">
+        <a asp-action="GetAll" class="btn btn-outline-secondary">Back to Products</a>
+    </div>
 </div>
 
+<!-- jQuery Validation Scripts -->
+<script src="~/lib/jquery/dist/jquery.js"></script>
+<script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+<script src="~/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js"></script>
 
+<!-- Live Image Preview Script -->
+<script>
+    function updateImagePreview(url) {
+        document.getElementById("imagePreview").src = url || "https://via.placeholder.com/150";
+    }
+</script>

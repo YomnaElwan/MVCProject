@@ -27,7 +27,7 @@ namespace OnlineRestaurant.Controllers
         }
 
         //Add New Product
-        [Authorize(Roles = "Admin")]
+        
 
         public IActionResult New()
         {
@@ -46,7 +46,9 @@ namespace OnlineRestaurant.Controllers
                 Description = viewModel.Description,
                 Price = viewModel.Price,
                 Stock = viewModel.Stock,
-                CategoryId = viewModel.CategoryId
+                CategoryId = viewModel.CategoryId,
+                imageSrc=viewModel.imageSrc
+                
             };
             if (ModelState.IsValid == true)
             {
@@ -70,7 +72,6 @@ namespace OnlineRestaurant.Controllers
             return View("New", viewModel);
         }
         //Edit Product
-        [Authorize(Roles = "Admin")]
 
         public IActionResult Edit(int id)
         {
@@ -88,7 +89,8 @@ namespace OnlineRestaurant.Controllers
                 Price = product.Price,
                 Stock = product.Stock,
                 CategoryId = product.CategoryId,
-                Categories = category_Repo.GetAll() 
+                Categories = category_Repo.GetAll() ,
+                imageSrc=product.imageSrc,
             };
 
             return View("Edit", viewModel);
@@ -109,6 +111,7 @@ namespace OnlineRestaurant.Controllers
                 existingProduct.Description = viewModel.Description;
                 existingProduct.Price = viewModel.Price;
                 existingProduct.Stock = viewModel.Stock;
+                existingProduct.imageSrc = viewModel.imageSrc;
                 existingProduct.CategoryId = viewModel.CategoryId;
 
                 product_Repo.Update(existingProduct);
@@ -125,7 +128,6 @@ namespace OnlineRestaurant.Controllers
         //Delete Product
 
         [HttpGet]
-        [Authorize(Roles = "Admin")]
         public IActionResult Delete(int id)
         {
             var product = product_Repo.GetById(id);

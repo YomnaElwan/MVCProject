@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using OnlineRestaurant.Models;
+using OnlineRestaurant.Repository;
 using OnlineRestaurant.ViewModels;
 
 namespace OnlineRestaurant.Controllers
@@ -9,11 +10,18 @@ namespace OnlineRestaurant.Controllers
     {
         UserManager<ApplicationUser> userManager;
         SignInManager<ApplicationUser> signInManager;
+        Generic_Repository<Order> orderRepo;
+        Generic_Repository<Category> categories;
+        Generic_Repository<Product> productRepo;
         public AccountController
-            (UserManager<ApplicationUser> userManager, SignInManager<ApplicationUser> signInManager)
+            (UserManager<ApplicationUser> userManager, SignInManager<ApplicationUser> signInManager, Generic_Repository<Order> orderRepo, Generic_Repository<Category> categories, Generic_Repository<Product> productRepo
+)
         {
             this.userManager = userManager;
             this.signInManager = signInManager;
+            this.orderRepo = orderRepo;
+            this.categories = categories;
+            this.productRepo = productRepo;
         }
 
 
@@ -66,6 +74,18 @@ namespace OnlineRestaurant.Controllers
         {
             return View("Login");
         }
+        public IActionResult AdminDashBoard()
+        {
+            AdminMainDashboardVM adminDB = new AdminMainDashboardVM();
+            adminDB.users = userManager.Users.Count();
+            adminDB.orders = orderRepo.GetAll().Count();
+            adminDB.categories = categories.GetAll().Count();
+            adminDB.products = productRepo.GetAll().Count();
+            return View("AdminDashBoard",adminDB);
+        }
+
+       
+
         [ValidateAntiForgeryToken]
         [HttpPost]
         public async Task<IActionResult> Login(UserLoginVM userLoginVM)
@@ -78,6 +98,11 @@ namespace OnlineRestaurant.Controllers
                     bool isFound = await userManager.CheckPasswordAsync(user, userLoginVM.Password);
                     if (isFound == true)
                     {
+                        var Role = await userManager.GetRolesAsync(user);
+                        if (Role.Contains("Admin"))
+                        {
+                           return RedirectToAction("AdminDashBoard","Account");
+                        }
                         await signInManager.SignInAsync(user, userLoginVM.RememberMe);
                         return RedirectToAction("Index", "Home");
                     }

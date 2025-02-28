@@ -1,39 +1,83 @@
 ﻿@using OnlineRestaurant.ViewModels
 @model ProductCategory
-@{
-    ViewData["Title"] = "New";
-    SelectList categoryItems = new SelectList(Model.Categories, "Id", "Name");
 
+@{
+    ViewData["Title"] = "New Product";
+    SelectList categoryItems = new SelectList(Model.Categories, "Id", "Name");
+    Layout = "_AdminDashboard";
 }
 
+<h1 class="text-center text-black">Add New Product</h1>
 
-<h1>New</h1>
-<h4>Product</h4>
+<div class="card shadow-lg p-4">
+    <hr />
 
-<form asp-action="SaveNew" method="post">
-    <label>Name</label>
-    <input type="text" asp-for="Name" class="form-control" required />
+    <form asp-action="SaveNew" method="post" enctype="multipart/form-data">
+        <div class="row">
+            <!-- Left Column -->
+            <div class="col-md-6">
+                <!-- Product Name -->
+                <div class="mb-3">
+                    <label class="form-label fw-bold">Product Name</label>
+                    <input type="text" asp-for="Name" class="form-control" placeholder="Enter product name" required />
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
 
-    <label>Description</label>
-    <textarea asp-for="Description" class="form-control" required></textarea>
+                <!-- Description -->
+                <div class="mb-3">
+                    <label class="form-label fw-bold">Description</label>
+                    <textarea asp-for="Description" class="form-control" rows="3" placeholder="Enter product description" required></textarea>
+                    <span asp-validation-for="Description" class="text-danger"></span>
+                </div>
 
-    <label>Price</label>
-    <input type="number" asp-for="Price" class="form-control" step="5" required />
+                <!-- Category -->
+                <div class="mb-3">
+                    <label class="form-label fw-bold">Category</label>
+                    <select asp-for="CategoryId" asp-items="categoryItems" class="form-control" required>
+                        <option value="">Select a Category</option>
+                    </select>
+                    <span asp-validation-for="CategoryId" class="text-danger"></span>
+                </div>
+            </div>
 
-    <label>Stock</label>
-    <input type="number" asp-for="Stock" class="form-control" step="1" required />
+            <!-- Right Column -->
+            <div class="col-md-6">
+                <!-- Price -->
+                <div class="mb-3">
+                    <label class="form-label fw-bold">Price</label>
+                    <input type="number" asp-for="Price" class="form-control" step="0.01" placeholder="Enter price" required />
+                    <span asp-validation-for="Price" class="text-danger"></span>
+                </div>
 
-    <label>Category</label>
-    <select asp-for="CategoryId" asp-items="categoryItems" class="form-control" required>
-        <option value="">Select a Category</option>
-    </select>
+                <!-- Stock -->
+                <div class="mb-3">
+                    <label class="form-label fw-bold">Stock</label>
+                    <input type="number" asp-for="Stock" class="form-control" step="1" placeholder="Enter stock quantity" required />
+                    <span asp-validation-for="Stock" class="text-danger"></span>
+                </div>
 
-    <button type="submit" class="btn btn-primary">Save</button>
-</form>
-<div>
-        <a asp-action="GetAll">Back to Products</a>
+                <!-- Product Image -->
+                <div class="mb-3">
+                    <label class="form-label fw-bold">Product ImageURL</label>
+                    <input type="text" asp-for="imageSrc" class="form-control" placeholder="Enter Product ImageURL" required />
+                    <span asp-validation-for="imageSrc" class="text-danger"></span>
+                </div>
+            </div>
+        </div>
 
+        <!-- Submit Button -->
+        <div class="text-center mt-3">
+            <button type="submit" class="btn btn-warning w-50">Save Product</button>
+        </div>
+    </form>
+
+    <!-- Back to Products -->
+    <div class="text-center mt-3">
+        <a asp-action="GetAll" class="btn btn-outline-secondary">Back to Products</a>
+    </div>
 </div>
 
-
-
+<!-- jQuery Validation Scripts -->
+<script src="~/lib/jquery/dist/jquery.js"></script>
+<script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+<script src="~/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js"></script>

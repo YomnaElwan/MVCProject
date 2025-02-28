@@ -1,36 +1,45 @@
 ﻿@model OnlineRestaurant.Models.Ingredient
 
 @{
-    ViewData["Title"] = "New";
+    ViewData["Title"] = "New Ingredient";
+    Layout = "_AdminDashboard";
 }
 
-<h1>New</h1>
+<h1 class="text-center text-black">Add New Ingredient</h1>
 
-<h4>Ingredient</h4>
-<hr />
-<div class="row">
-    <div class="col-md-4">
-        <form asp-action="SaveNew">
-            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-            <div class="form-group">
-                <label asp-for="Name" class="control-label"></label>
-                <input asp-for="Name" class="form-control" />
+<div class="card shadow-lg p-4 mt-4">
+    <form asp-action="SaveNew">
+        <!-- Ingredient Name -->
+        <div class="row mb-3">
+            <div class="col">
+                <label class="form-label fw-bold">Ingredient Name</label>
+                <input asp-for="Name" class="form-control" placeholder="Enter ingredient name" required />
                 <span asp-validation-for="Name" class="text-danger"></span>
             </div>
-            <div class="form-group">
-                <label asp-for="Description" class="control-label"></label>
-                <input asp-for="Description" class="form-control" />
+        </div>
+
+        <!-- Description -->
+        <div class="row mb-3">
+            <div class="col">
+                <label class="form-label fw-bold">Description</label>
+                <textarea asp-for="Description" class="form-control" rows="3" placeholder="Enter ingredient description" required></textarea>
                 <span asp-validation-for="Description" class="text-danger"></span>
             </div>
-            <div class="form-group">
-                <input type="submit" value="Add Ingredient" class="btn btn-primary" />
-            </div>
-        </form>
+        </div>
+
+        <!-- Submit Button -->
+        <div class="text-center mt-4">
+            <button type="submit" class="btn btn-warning w-50">Add Ingredient</button>
+        </div>
+    </form>
+
+    <!-- Back Button -->
+    <div class="text-center mt-3">
+        <a asp-action="GetAll" class="btn btn-outline-secondary">Back to Ingredients</a>
     </div>
 </div>
 
-<div>
-    <a asp-action="GetAll">Back to Ingredients</a>
-</div>
-
-
+<!-- jQuery Validation Scripts -->
+<script src="~/lib/jquery/dist/jquery.js"></script>
+<script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+<script src="~/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js"></script>

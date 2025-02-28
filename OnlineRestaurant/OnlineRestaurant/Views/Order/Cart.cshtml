@@ -2,48 +2,86 @@
 
 @{
     Layout = "_CreateOrderLayout";
-    ViewData["Title"] = "Cart";
+    ViewData["Title"] = "Shopping Cart";
 }
 
-<h1>Cart</h1>
+<h1 class="text-center text-dark">🛒 Your Shopping Cart</h1>
 
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
-<form asp-action="PlaceOrder" asp-controller="Order">
-    <table class="table">
-        <thead>
-            <tr>
-                <th>
-                    Product
-                </th>
-                <th>Quantity</th>
-                <th>Price</th>
-                <th>Total</th>
-            </tr>
-        </thead>
-        <tbody>
-            @foreach (var item in Model.orderItemVMs)
-            {
-                <tr>
-                    <td>
-                        @item.ProductName
-                    </td>
-                    <td>
-                        @item.Quantity
-                    </td>
-                    <td>@item.Price</td>
-                </tr>
-            }
-            <tr>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td>@Model.TotalAmount</td>
-            </tr>
+@if (Model.orderItemVMs.Any())
+{
+        <div class="card shadow-lg p-4 mt-4">
+            <form asp-action="PlaceOrder" asp-controller="Order">
+                <div class="table-responsive">
+                    <table class="table table-hover text-center align-middle">
+                        <thead class="bg-dark text-white">
+                            <tr>
+                                <th>Product</th>
+                                <th>Quantity</th>
+                                <th>Price</th>
+                                <th>Total</th>
+                                <th>Actions</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                        @foreach (var item in Model.orderItemVMs)
+                        {
+                                    <tr>
+                                        <td class="fw-bold">@item.ProductName</td>
 
-        </tbody>
-    </table>
+                                        <!-- Quantity with Adjust Buttons -->
+                                        <td>
+                                            <div class="d-flex justify-content-center align-items-center">
+                                                <span class="mx-2 fs-5">@item.Quantity</span>
+                                            </div>
+                                        </td>
 
-    <button class="btn btn-info" type="submit" >Place Order</button>
-</form>
+                                        <td class="text-success fw-bold">$@item.Price</td>
+                                        <td class="text-success fw-bold">$@(item.Price * item.Quantity)</td>
+
+                                        <!-- Remove Button -->
+                                        <td>
+                                                    <a asp-action="DeleteOrderItem" asp-route-id="@item.ProductId" class="btn btn-danger btn-sm">
+                                                <i class="fas fa-trash"></i> Remove
+                                            </a>
+                                        </td>
+                                    </tr>
+                        }
+
+                            <!-- Total Row -->
+                            <tr class="fw-bold fs-5 bg-light">
+                                <td colspan="3" class="text-end">Total:</td>
+                                <td class="text-success">$@Model.TotalAmount</td>
+                                <td></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+
+                <!-- Place Order Button -->
+                <div class="text-center mt-4">
+                    <button class="btn btn-warning w-50 fs-5" type="submit">
+                        <i class="fas fa-shopping-cart"></i> Place Order
+                    </button>
+                </div>
+            </form>
+
+            <!-- Continue Shopping Button -->
+            <div class="text-center mt-3">
+                <a asp-action="CreateOrder" asp-controller="Order" class="btn btn-outline-secondary">
+                    <i class="fas fa-arrow-left"></i> Continue Shopping
+                </a>
+            </div>
+        </div>
+}
+else
+{
+        <div class="text-center mt-5">
+            <h3 class="text-muted">😔 Your cart is empty!</h3>
+            <a asp-action="CreateOrder" asp-controller="Order" class="btn btn-warning mt-3">
+                <i class="fas fa-shopping-bag"></i> Start Shopping
+            </a>
+        </div>
+}
+
+<!-- Include FontAwesome for Icons -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">

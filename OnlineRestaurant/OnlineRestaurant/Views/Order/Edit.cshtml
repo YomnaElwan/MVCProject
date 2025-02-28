@@ -1,0 +1,64 @@
+﻿@model OnlineRestaurant.Models.Order
+
+@{
+    ViewData["Title"] = "Edit Order";
+    Layout = "_AdminDashboard";
+}
+
+<div class="card shadow p-4">
+    <h4>Order Details</h4>
+    <hr />
+    <div class="row">
+        <div class="col-md-6">
+            <form asp-action="Edit">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                <!-- Hidden Order ID -->
+                <input asp-for="Id" type="hidden" />
+
+                <!-- Order Date -->
+                <div class="form-group mb-3">
+                    <label asp-for="Date" class="form-label fw-bold">Order Date</label>
+                    <input asp-for="Date" class="form-control" type="datetime-local" />
+                    <span asp-validation-for="Date" class="text-danger"></span>
+                </div>
+
+                <!-- Total Amount -->
+                <div class="form-group mb-3">
+                    <label asp-for="TotalAmount" class="form-label fw-bold">Total Amount</label>
+                    <input asp-for="TotalAmount" class="form-control" type="number" step="0.01" />
+                    <span asp-validation-for="TotalAmount" class="text-danger"></span>
+                </div>
+
+                <!-- Order Items -->
+                <div class="form-group mb-3">
+                    <label class="form-label fw-bold">Order Items</label>
+                    <ul class="list-group">
+                        @if (Model.OrderItems != null && Model.OrderItems.Any())
+                        {
+                            @foreach (var item in Model.OrderItems)
+                            {
+                                        <li class="list-group-item">
+                                            <strong>@item.product.Name</strong> - Quantity: @item.Quantity - Price: @item.Price
+                                        </li>
+                            }
+                        }
+                        else
+                        {
+                                <li class="list-group-item text-muted">No items in this order.</li>
+                        }
+                    </ul>
+                </div>
+
+                <!-- Hidden User ID (Not editable) -->
+                <input asp-for="UserId" type="hidden" />
+
+                <!-- Submit Button -->
+                <div class="form-group mt-3">
+                    <button type="submit" class="btn btn-warning">Save Changes</button>
+                    <a asp-action="GetAllOrder" asp-controller="Order" class="btn btn-secondary ms-2">Back to Orders</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

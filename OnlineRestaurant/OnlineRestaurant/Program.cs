@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using OnlineRestaurant.Models;
 using OnlineRestaurant.Repository;
+using OnlineRestaurant.UnitOfWork;
 
 namespace OnlineRestaurant
 {
@@ -19,11 +20,15 @@ namespace OnlineRestaurant
 
 
             });
+            //builder.Services.AddScoped<RestaurantUnitWork>();
+
             builder.Services.AddScoped(typeof(Generic_Repository<>));
+
             builder.Services.AddScoped<IRepository<Category>, Generic_Repository<Category>>();
             builder.Services.AddScoped<IRepository<Product>, Generic_Repository<Product>>();
             builder.Services.AddScoped<IRepository<Ingredient>, Generic_Repository<Ingredient>>();
             builder.Services.AddScoped<IRepository<Order>, Generic_Repository<Order>>();
+
             builder.Services.AddIdentity<ApplicationUser, IdentityRole>().AddEntityFrameworkStores<RestaurantContext>();
 
             builder.Services.AddSession(options =>

@@ -4,6 +4,7 @@ using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using Microsoft.Identity.Client;
 using OnlineRestaurant.Models;
 using OnlineRestaurant.Repository;
+using OnlineRestaurant.UnitOfWork;
 using OnlineRestaurant.ViewModels;
 
 namespace OnlineRestaurant.Controllers
@@ -11,10 +12,15 @@ namespace OnlineRestaurant.Controllers
     
     public class CategoryController : Controller
     {
+        //RestaurantUnitWork RestaurantUnitOfWork;
         Generic_Repository<Category> category_Repo;
-        public CategoryController(Generic_Repository<Category> repo)
+        public CategoryController(
+                Generic_Repository<Category> repo
+                //RestaurantUnitWork RestaurantUnitWork
+            )
         {
-            this.category_Repo = repo;   
+            this.category_Repo = repo;
+            //this.RestaurantUnitOfWork = RestaurantUnitWork;
         }
 
         public IActionResult Getall()
@@ -22,7 +28,6 @@ namespace OnlineRestaurant.Controllers
             return View("AllCategories",category_Repo.GetAll());
         }
 
-        [Authorize(Roles = "Admin")]
 
         public IActionResult New()
         {
@@ -41,7 +46,6 @@ namespace OnlineRestaurant.Controllers
             return View("New", category);
 
         }
-        [Authorize(Roles = "Admin")]
 
         public IActionResult Edit(int id)
         {
@@ -60,7 +64,6 @@ namespace OnlineRestaurant.Controllers
         }
 
 
-        [Authorize(Roles = "Admin")]
 
         [HttpGet]
 

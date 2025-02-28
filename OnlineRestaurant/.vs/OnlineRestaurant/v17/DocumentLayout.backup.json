@@ -1,16 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Data [Yomna]\\ITI Menofia ICC 2024 - 2025\\MVC\\MVC Project\\MVCProject\\OnlineRestaurant\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{2410D1BD-50EB-4469-9A85-2B7D12C232BA}|OnlineRestaurant\\OnlineRestaurant.csproj|d:\\data [yomna]\\iti menofia icc 2024 - 2025\\mvc\\mvc project\\mvcproject\\onlinerestaurant\\onlinerestaurant\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2410D1BD-50EB-4469-9A85-2B7D12C232BA}|OnlineRestaurant\\OnlineRestaurant.csproj|solutionrelative:onlinerestaurant\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2410D1BD-50EB-4469-9A85-2B7D12C232BA}|OnlineRestaurant\\OnlineRestaurant.csproj|d:\\data [yomna]\\iti menofia icc 2024 - 2025\\mvc\\mvc project\\mvcproject\\onlinerestaurant\\onlinerestaurant\\views\\shared\\_createorderlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2410D1BD-50EB-4469-9A85-2B7D12C232BA}|OnlineRestaurant\\OnlineRestaurant.csproj|solutionrelative:onlinerestaurant\\views\\shared\\_createorderlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,37 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Data [Yomna]\\ITI Menofia ICC 2024 - 2025\\MVC\\MVC Project\\MVCProject\\OnlineRestaurant\\OnlineRestaurant\\appsettings.json",
-              "RelativeDocumentMoniker": "OnlineRestaurant\\appsettings.json",
-              "ToolTip": "D:\\Data [Yomna]\\ITI Menofia ICC 2024 - 2025\\MVC\\MVC Project\\MVCProject\\OnlineRestaurant\\OnlineRestaurant\\appsettings.json",
-              "RelativeToolTip": "OnlineRestaurant\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-28T07:30:14.297Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_CreateOrderLayout.cshtml",
-              "DocumentMoniker": "D:\\Data [Yomna]\\ITI Menofia ICC 2024 - 2025\\MVC\\MVC Project\\MVCProject\\OnlineRestaurant\\OnlineRestaurant\\Views\\Shared\\_CreateOrderLayout.cshtml",
-              "RelativeDocumentMoniker": "OnlineRestaurant\\Views\\Shared\\_CreateOrderLayout.cshtml",
-              "ToolTip": "D:\\Data [Yomna]\\ITI Menofia ICC 2024 - 2025\\MVC\\MVC Project\\MVCProject\\OnlineRestaurant\\OnlineRestaurant\\Views\\Shared\\_CreateOrderLayout.cshtml",
-              "RelativeToolTip": "OnlineRestaurant\\Views\\Shared\\_CreateOrderLayout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-27T18:01:24.843Z",
-              "EditorCaption": ""
             }
           ]
         },

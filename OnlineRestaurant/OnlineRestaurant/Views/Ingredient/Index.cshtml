@@ -1,48 +1,62 @@
-﻿<h1>Index</h1>
-@model List<Ingredient>
-<br />
-@if (User.IsInRole("Admin")){
-
-
-    <a asp-action="New" asp-controller="Ingredient">Add Ingredient</a>
+﻿@{
+    Layout = "_AdminDashboard";
 }
-<table class="table able-bordered table-hover">
-    <thead>
 
-        <th>Ingredient Name</th>
-        <th>Show Details</th>
-        @if (User.IsInRole("Admin"))
-        {
-            <th>Edit</th>
-            <th>Delete</th>
-        }
+<h1 class="text-center mt-4 mb-4 text-black">Ingredient Management</h1>
 
+@model List<Ingredient>
 
-
-    </thead>
-
-    @foreach (var item in Model)
-    {
-            <tr>
-                <td>@item.Name</td>
-                <td><a href="/Ingredient/Details/@item.Id">Show Details</a></td>
-            @if (User.IsInRole("Admin"))
-            {
-
-                <td><a href="/Ingredient/Edit/@item.Id">Edit</a></td>
-                <td><a href="/Ingredient/Delete/@item.Id">Delete</a></td>
-            }
-
-            </tr>
-    }
-
-</table>
-<div>
-    <a asp-action="GetAll" asp-controller="Category">Back To Categories</a>
+<div class="d-flex justify-content-between mb-4">
+    <a asp-action="New" asp-controller="Ingredient" class="btn btn-warning text-dark">
+        <i class="fas fa-plus"></i> Add Ingredient
+    </a>
 </div>
 
+<table class="table table-bordered table-striped table-hover shadow-sm">
+    <thead class="bg-secondary text-white">
+        <tr class="text-center align-middle">
+            <th class="p-3">Ingredient Name</th>
+            <th class="p-3">Show Details</th>
+            <th class="p-3">Edit</th>
+            <th class="p-3">Delete</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+                <tr class="text-center align-middle">
+                    <td class="p-3">@item.Name</td>
+                    <td class="p-3">
+                        <a href="/Ingredient/Details/@item.Id" class="btn btn-secondary btn-sm">
+                            <i class="fas fa-eye"></i> Show Details
+                        </a>
+                    </td>
+                    <td class="p-3">
+                        <a href="/Ingredient/Edit/@item.Id" class="btn btn-warning btn-sm text-dark">
+                            <i class="fas fa-edit"></i> Edit
+                        </a>
+                    </td>
+                    <td class="p-3">
+                        <a asp-action="Delete" asp-controller="Ingredient" asp-route-id="@item.Id" 
+                           class="btn btn-danger btn-sm" 
+                           onclick="return confirm('Are you sure you want to delete this ingredient?');">
+                            <i class="fas fa-trash"></i> Delete
+                        </a>
+                    </td>
+                </tr>
+        }
+    </tbody>
+</table>
 
+<div class="d-flex justify-content-center mt-4">
+    <a asp-action="GetAll" asp-controller="Category" class="btn btn-warning">
+        <i class="fas fa-arrow-left"></i> Back to Categories
+    </a>
+</div>
 
+<!-- Include FontAwesome for icons -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 
-
-
+<script src="~/lib/jquery/dist/jquery.js"></script>
+<script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+<script src="~/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js"></script>
